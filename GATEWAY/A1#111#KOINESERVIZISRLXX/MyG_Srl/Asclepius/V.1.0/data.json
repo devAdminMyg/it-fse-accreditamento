@@ -1,0 +1,34 @@
+{
+    "appVendor": "MyG Srl",
+    "appID": "Asclepius",
+    "appVersion": "1.0",
+    "results": [
+        {
+            "id": "476",
+            "traceId": "6c49f8b3bb875bc72efc28f7231849c3",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.180.4.4.483b7cc3e6cf23006b3db36ee3af79c2d603e01c52a29ea3f3b31a6c863da7f4.267672f8e3^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "ts": "2026-07-08T15:50:56Z",
+            "files": [
+                "VALIDAZIONE_CDA2_PSS_CT23.pdf"
+            ]
+        },
+        {
+            "id": "477",
+            "traceId": "1454efc587efb7e2b78c7aba5156dddd",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.180.4.4.d86f7f311f95d3711c04f7963faeef638d7dfb65ebf07fb8fafbca0dafdea606.ca6c26fb16^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "ts": "2026-07-08T15:47:32Z",
+            "files": [
+                "VALIDAZIONE_CDA2_PSS_CT24.pdf"
+            ]
+        },
+        {
+            "id": "478",
+            "traceId": "8452157775e57ddc3acc0757062aebce",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.180.4.4.5c9eaf6a0bd28aa51bc3839343b9e80400195146490d4053b02e1e10395acba8.c20be6be30^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "ts": "2026-07-08T15:53:29Z",
+            "files": [
+                "VALIDAZIONE_CDA2_PSS_CT25.pdf"
+            ]
+        }
+    ]
+}
